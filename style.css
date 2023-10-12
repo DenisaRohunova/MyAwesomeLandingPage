@@ -1,0 +1,81 @@
+
+
+.container {
+  
+  
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.newsletter {
+  
+  color: grey;
+  border: thin solid #cfcfcf;
+  padding: 10px;
+  border-radius: 3px;
+  position: relative;
+
+}
+
+.newsletter button {
+  
+  background-color: #3cb878;
+ 
+  width: 100%;
+  display: block;
+  height: 30px;
+  color: white;
+  border: none;
+  margin-bottom: 15px;
+  
+}
+
+.newsletter input#email{
+  
+  width: 100%;
+  display: block;
+  height: 30px;
+  margin-bottom: 7px;
+  border-radius: 3px;
+ border: thin solid #cfcfcf;
+  box-sizing: border-box;
+}
+
+.newsletter h3 {
+  
+  margin-top: 0px;
+}
+
+.newsletter input#terms {
+  
+ margin-bottom: 20px;
+   margin-top: 20px;
+  position: relative;
+  top: 2px;
+  
+}
+
+.newsletter  #closex {
+  
+  position: absolute;
+  top: 0px;
+  right: 10px
+}
+
+#questionmark {
+  
+  background-color: #3cb878;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  
+}
